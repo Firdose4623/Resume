@@ -4,7 +4,7 @@ This repository hosts the public PDF version of my resume. It is intended for sh
 
 ## 📂 File
 
-- [`Firdose_Resume.pdf`](https://yourusername.github.io/Firdose_Resume.pdf)
+- [`Firdose_Resume.pdf`](https://yourusername.github.io/Updated_resume.pdf)
 
 > Hosted via GitHub Pages for easy access.
 
