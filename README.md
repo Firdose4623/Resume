@@ -4,14 +4,14 @@ This repository hosts the public PDF version of my resume. It is intended for sh
 
 ## 📂 File
 
-- [`Firdose_Resume.pdf`](https://firdose4623.github.io/Resume/Updated%20resume.pdf)
+- [`Resume.pdf`](https://firdose4623.github.io/Resume/Updated%20resume.pdf)
 
 > Hosted via GitHub Pages for easy access.
 
 ## 📫 Contact
 
 - **Email:** ch23btech11017@iith.ac.in
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/firdose-anjum-ml)
+- **LinkedIn:** [linkedin.com/in/firdose-anjum-ml](https://linkedin.com/in/firdose-anjum-ml)
 - **Portfolio:** [firdose.dev](https://firdose.dev) 
 
 ---
