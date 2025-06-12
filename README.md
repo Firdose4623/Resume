@@ -12,7 +12,7 @@ This repository hosts the public PDF version of my resume. It is intended for sh
 
 - **Email:** ch23btech11017@iith.ac.in
 - **LinkedIn:** [linkedin.com/in/firdose-anjum-ml](https://linkedin.com/in/firdose-anjum-ml)
-- **Portfolio:** [firdose.dev](https://firdose.dev) 
+- **Portfolio:** [firdoseanjum.framer.website](https://firdoseanjum.framer.website/) 
 
 ---
 
